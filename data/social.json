@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/GoTables-DB"
+    },
+    {
+      "name": "gitlab",
+      "icon": "fab fa-gitlab",
+      "link": "https://git.jereileu.ch/GoTables"
+    }
+  ]
+}

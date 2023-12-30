@@ -1,0 +1,59 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Download"
+url = "download/"
+weight = 2
+
+[[main]]
+name = "Docs"
+url = "https://docs.gotables.link"
+weight = 3
+
+[[main]]
+name = "Blog"
+weight = 4
+hasChildren = true
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 5
+
+[[main]]
+parent = "Blog"
+name = "Articles"
+url = "blog/"
+
+[[main]]
+parent = "Blog"
+name = "Authors"
+url = "authors/"
+
+[[main]]
+parent = "Blog"
+name = "Categories"
+url = "categories/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Credits"
+url = "credits/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
