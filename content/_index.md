@@ -1,53 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "GoTables"
+  content: "GoTables is an open-source database management system written in Go. It is easy-to-use and completely free."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Get Started"
+    link: "https://docs.gotables.link/getting-started"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Open-Source"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "GoTables is open-source. This means that it has some clear advantages over non-free software. Some examples are"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Trust - Due to its open-source nature, you can easily read the GoTables source code"
+      - "Contribution - You can contribute to the GoTables project by opening issues or merger requests"
+      - "Security - Because everyone can read the source code, security issues can be seen and reported"
+      - "Free to use - GoTables is released under the MIT license. It is free for personal and commercial use"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Written in Go"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Go is a programming language developed by Google. Here are some advantages compared to other languages"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Speed - Go is a very fast language"
+      - "Reliability - The GoTables server will hardly ever crash"
+      - "Simplicity - Go is easy-to-learn so it is easy to contribute to GoTables"
     button:
       enable: false
-      label: ""
-      link: ""
+      label: "Get Started Now"
+      link: "#"
+
+  - title: "Why use GoTables"
+    image: "/images/service-3.png"
+    content: "GoTables is a good database management system for the following reasons"
+    bulletpoints:
+      - "Simplicity - GoTables only requires setting up a simple configuration file to get started"
+      - "Open-Source - You can contribute to GoTables and read its source code"
+      - "Speed - GoTables is written in Go which ensures great speed and reliability"
+      - "Written in Go - As GoTables is written in Go, you can easily customize the code for your needs"
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
 ---
