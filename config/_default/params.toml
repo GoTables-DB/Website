@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Try GoTables"
+label = "Use GoTables"
 link = "https://docs.gotables.link/getting-started"
 
 # search
