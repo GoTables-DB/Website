@@ -9,8 +9,8 @@ description: "the GoTables download page"
 [GitLab](https://git.jereileu.ch/gotables/server/gt-server/-/releases/permalink/latest)
 [GitHub](https://github.com/GoTables-DB/gt-server/releases/latest)
 ##### Version 0.2
-[GitLab](https://git.jereileu.ch/gotables/server/gt-server/-/releases/v0.2.1)
-[GitHub](https://github.com/GoTables-DB/gt-server/releases/tag/v0.2.1)
+[GitLab](https://git.jereileu.ch/gotables/server/gt-server/-/releases/v0.2.2)
+[GitHub](https://github.com/GoTables-DB/gt-server/releases/tag/v0.2.2)
 ##### Version 0.1
 [GitLab](https://git.jereileu.ch/gotables/server/gt-server/-/releases/v0.1.1)
 [GitHub](https://github.com/GoTables-DB/gt-server/releases/tag/v0.1.1)
