@@ -27,8 +27,8 @@ description: "the GoTables download page"
 [GitLab](https://git.jereileu.ch/gotables/client/go/gotables/-/releases/permalink/latest)
 [GitHub](https://github.com/GoTables-DB/go-integration/releases/latest)
 ##### Version 0.1
-[GitLab](https://git.jereileu.ch/gotables/client/go/gotables/-/releases/v0.1.1)
-[GitHub](https://github.com/GoTables-DB/go-integration/releases/tag/v0.1.1)
+[GitLab](https://git.jereileu.ch/gotables/client/go/gotables/-/releases/v0.1.2)
+[GitHub](https://github.com/GoTables-DB/go-integration/releases/tag/v0.1.2)
 ### JavaScript
 No releases yet...
 ### Python
