@@ -38,7 +38,7 @@ features:
 
   - title: "Why use GoTables"
     image: "/images/service-3.png"
-    content: "GoTables is a good database management system for the following reasons"
+    content: "GoTables is a great database management system for the following reasons"
     bulletpoints:
       - "Simplicity - GoTables only requires setting up a simple configuration file to get started"
       - "Open-Source - You can contribute to GoTables and read its source code"
